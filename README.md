@@ -139,7 +139,7 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 </tr>
 <tr>
 <td>2</td>
-<td>Pekerjaan IoT (Hardware Engineer, Firmware Engineer, Software Engineer, Platform Engineer, Industrial Engineer)</td>
+<td>Posisi Pekerjaan IoT (IoT Hardware Engineer, IoT Firmware Engineer, IoT Software Engineer, IoT Platform Engineer, IoT Industrial Engineer)</td>
 </tr>
 <tr>
 <td>3</td>
