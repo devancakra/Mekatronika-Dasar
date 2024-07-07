@@ -5,9 +5,9 @@
 # Mekatronika-Dasar
 Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersialkan.
 
-<br><br>
+<br>
 
-## Konten
+## Konten Pembelajaran
 
 <div id="content-1" align="center">
 <table align="left">
