@@ -143,7 +143,7 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 </tr>
 <tr>
 <td>3</td>
-<td>Hardware IoT (Electronic Development Board: Mikrokontroler/Mikroprosesor, Sensor, Aktuator, Display, Network Protocol (Gateway): WiFi/Bluetooth/LoRa/GSM/NB-IoT/dll)</td>
+<td>Hardware IoT (Electronic Development Board: Mikrokontroler/Mikroprosesor, Sensor, Aktuator, Display, Network Protocol (Gateway): WiFi/LoRa/NB-IoT)</td>
 </tr>
 <tr>
 <td>4</td>
@@ -151,11 +151,15 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 </tr>
 <tr>
 <td>5</td>
-<td>Software IoT (Web, Desktop, Mobile, atau Hybrid)</td>
+<td>Software IoT (Web, Mobile, atau Hybrid)</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Platform IoT (Wokwi, Blynk, ThingSpeak, ThingsBoard, Antares, Mosquitto, MQTT Explorer, HiveMQ, Mit App Inventor, dll)</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Project dan Studi Kasus</td>
 </tr>
 </table>
 
