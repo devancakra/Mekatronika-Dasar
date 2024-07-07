@@ -7,6 +7,63 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 
 <br><br>
 
+## Konten
+
+<div id="content" align="center">
+<table align="left">
+<tr>
+<th colspan="2" align="left">K3 Listrik & Petir</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Dasar K3 Listrik</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Perundang-undangan K3 Listrik</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Persyaratan Umum Instalasi Listrik (PUIL)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Bahaya Petir</td>
+</tr>
+<tr>
+<td>5</td>
+<td>P3K Listrik</td>
+</tr>
+</table>
+<table>
+<tr>
+<th colspan="2" align="left">Elektronika Dasar</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Dasar Elektronika</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Simbol Dasar dan Komponen Elektronika</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Alat Ukur Elektronika</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Penyolderan</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Sistem Digital</td>
+</tr>
+</table>
+</div>
+
+<br><br>
+
 ## Apresiasi
 Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan mengklik tombol ``` ⭐Bintang ``` di bagian atas repositori.
 
