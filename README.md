@@ -127,6 +127,38 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 </table>
 </div>
 
+<br>
+
+<table>
+<tr>
+<th colspan="2">IoT (Internet of Things)</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Pengantar IoT (Pengertian, Sejarah, Sistem Kerja, Arsitektur, Infrastruktur IoT)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Pekerjaan IoT (Hardware Engineer, Firmware Engineer, Software Engineer, Platform Engineer)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Hardware IoT (Electronic Development Board: MCU/MPU, Sensor, Aktuator, Display)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Firmware IoT</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Software IoT</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Platform IoT</td>
+</tr>
+</table>
+
 <br><br>
 
 ## Apresiasi
