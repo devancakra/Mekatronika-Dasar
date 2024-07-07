@@ -80,11 +80,11 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 </tr>
 <tr>
 <td>3</td>
-<td>Instalasi dan Penggunaan Software Eagle</td>
+<td>Instalasi & Penggunaan Eagle</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Proyek PCB Single Layer dan Double Layer</td>
+<td>Proyek PCB Single & Double Layer</td>
 </tr>
 <tr>
 <td>5</td>
@@ -92,7 +92,7 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 </tr>
 <tr>
 <td>6</td>
-<td>Cara Mencetak PCB di Dalam Negeri dan Luar Negeri</td>
+<td>Cara Mencetak PCB di Dalam & Luar Negeri</td>
 </tr>
 </table>
   
