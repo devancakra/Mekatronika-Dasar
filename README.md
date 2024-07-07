@@ -139,11 +139,11 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 </tr>
 <tr>
 <td>2</td>
-<td>Pekerjaan IoT (Hardware Engineer, Firmware Engineer, Software Engineer, Platform Engineer)</td>
+<td>Pekerjaan IoT (Hardware Engineer, Firmware Engineer, Software Engineer, Platform Engineer, Industrial Engineer)</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Hardware IoT (Electronic Development Board: Mikrokontroler/Mikroprosesor, Sensor, Aktuator, Display, Network Protocol (Gateway): WiFi/Bluetooth/LoRa/GSM/dll)</td>
+<td>Hardware IoT (Electronic Development Board: Mikrokontroler/Mikroprosesor, Sensor, Aktuator, Display, Network Protocol (Gateway): WiFi/Bluetooth/LoRa/GSM/NB-IoT/dll)</td>
 </tr>
 <tr>
 <td>4</td>
@@ -155,7 +155,7 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 </tr>
 <tr>
 <td>6</td>
-<td>Platform IoT</td>
+<td>Platform IoT (Wokwi, Blynk, ThingSpeak, ThingsBoard, Antares, Mosquitto, MQTT Explorer, HiveMQ, Mit App Inventor, dll)</td>
 </tr>
 </table>
 
