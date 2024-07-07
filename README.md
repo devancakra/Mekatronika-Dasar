@@ -131,7 +131,7 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 
 <table>
 <tr>
-<th colspan="2">IoT (Internet of Things)</th>
+<th colspan="2" align="left">IoT (Internet of Things)</th>
 </tr>
 <tr>
 <td>1</td>
@@ -139,15 +139,15 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 </tr>
 <tr>
 <td>2</td>
-<td>Posisi Pekerjaan IoT (IoT Hardware Engineer, IoT Firmware Engineer, IoT Software Engineer, IoT Platform Engineer, IoT Industrial Engineer)</td>
+<td>Posisi Pekerjaan IoT (Hardware, Firmware, Software, Platform, Industrial Engineer)</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Hardware IoT (Electronic Development Board: Mikrokontroler/Mikroprosesor, Sensor, Aktuator, Display, Network Protocol (Gateway): WiFi/LoRa/NB-IoT)</td>
+<td>Hardware IoT (Electronic Development Board: MCU/MPU, Sensor, Aktuator, Display, Gateway: WiFi/LoRa/NB-IoT)</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Firmware IoT (Pemrograman Hardware: Arduino/MicroPython/Python, M2M Data Protocol: UART/SPI/I2C, IoT Data Protocol: HTTP/MQTT/CoAP)</td>
+<td>Firmware IoT (Pemrograman Hardware, M2M Data Protocol: UART/SPI/I2C, IoT Data Protocol: HTTP/MQTT/CoAP)</td>
 </tr>
 <tr>
 <td>5</td>
@@ -155,7 +155,7 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 </tr>
 <tr>
 <td>6</td>
-<td>Platform IoT (Wokwi, Blynk, ThingSpeak, ThingsBoard, Antares, Mosquitto, MQTT Explorer, HiveMQ, Mit App Inventor, dll)</td>
+<td>Platform IoT (Blynk, ThingSpeak, ThingsBoard, Antares, Mosquitto, HiveMQ, dll)</td>
 </tr>
 <tr>
 <td>7</td>
