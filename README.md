@@ -151,7 +151,7 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 </tr>
 <tr>
 <td>5</td>
-<td>Software IoT (Bot, Website, dll)</td>
+<td>Software IoT (Web, Desktop, Mobile, atau Hybrid)</td>
 </tr>
 <tr>
 <td>6</td>
