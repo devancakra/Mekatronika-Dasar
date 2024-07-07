@@ -80,7 +80,7 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 </tr>
 <tr>
 <td>3</td>
-<td>Instalasi & Penggunaan Eagle</td>
+<td>Instalasi & Penggunaan Software Eagle</td>
 </tr>
 <tr>
 <td>4</td>
