@@ -121,8 +121,8 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 <td>Dasar Pemrograman Arduino</td>
 </tr>
 <tr>
-<td>6</td>
-<td>Project dan Studi Kasus</td>
+<td rowspan="2">6</td>
+<td rowspan="1">Project & Studi Kasus (Penerapan Sensor, Aktuator, Display)</td>
 </tr>
 </table>
 </div>
