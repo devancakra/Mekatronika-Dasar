@@ -143,15 +143,15 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 </tr>
 <tr>
 <td>3</td>
-<td>Hardware IoT (Electronic Development Board: MCU/MPU, Sensor, Aktuator, Display)</td>
+<td>Hardware IoT (Electronic Development Board: Mikrokontroler/Mikroprosesor, Sensor, Aktuator, Display, Network Protocol (Gateway): WiFi/Bluetooth/LoRa/GSM/dll)</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Firmware IoT</td>
+<td>Firmware IoT (Pemrograman Hardware: Arduino/MicroPython/Python, M2M Data Protocol: UART/SPI/I2C, IoT Data Protocol: HTTP/MQTT/CoAP)</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Software IoT</td>
+<td>Software IoT (Bot, Website, dll)</td>
 </tr>
 <tr>
 <td>6</td>
