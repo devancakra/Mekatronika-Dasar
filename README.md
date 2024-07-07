@@ -9,7 +9,7 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 
 ## Konten
 
-<div id="content" align="center">
+<div id="content-1" align="center">
 <table align="left">
 <tr>
 <th colspan="2" align="left">K3 Listrik & Petir</th>
@@ -35,6 +35,7 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 <td>P3K Listrik</td>
 </tr>
 </table>
+  
 <table>
 <tr>
 <th colspan="2" align="left">Elektronika Dasar</th>
@@ -58,6 +59,70 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 <tr>
 <td>5</td>
 <td>Sistem Digital</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<div id="content-2" align="center">
+<table align="left">
+<tr>
+<th colspan="2" align="left">Printed Circuit Board Design</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Pengenalan PCB</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Pengenalan Software Eagle</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Instalasi dan Penggunaan Software Eagle</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Proyek PCB Single Layer dan Double Layer</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Ekspor Image dan Gerber</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Cara Mencetak PCB di Dalam Negeri dan Luar Negeri</td>
+</tr>
+</table>
+  
+<table>
+<tr>
+<th colspan="2" align="left">Embedded System</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Pengenalan Mikrokontroler</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Sejarah Mikrokontroler</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Arduino sebagai Electronic Development Board</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Pengenalan Software Arduino IDE</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Dasar Pemrograman Arduino</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Project dan Studi Kasus</td>
 </tr>
 </table>
 </div>
