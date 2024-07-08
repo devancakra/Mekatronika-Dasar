@@ -176,12 +176,20 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 <td>Mengintegrasikan Perangkat Keras dan Perangkat Lunak (Firmware) untuk Device IoT</td>
 </tr>
 <tr>
-<td>J.61IOT01.008.1</td>
+<td>J.61IOT01.009.1</td>
 <td>Menggunakan Protokol Komunikasi IoT pada Aplikasi Berbasis Web</td>
+</tr>
+<tr>
+<td>J.61IOT01.007.1</td>
+<td>Menggunakan Protokol Komunikasi IoT pada Aplikasi Berbasis Mobile</td>
 </tr>
 <tr>
 <td>J.61IOT01.026.1</td>
 <td>Menerapkan perimeter keamanan pada Perangkat IoT</td>
+</tr>
+<tr>
+<td>J.61IOT01.019.1</td>
+<td>Melakukan Instalasi Firmware pada Perangkat (Device) Secara Over The Air (OTA)</td>
 </tr>
 <tr>
 <td>J.61IOT01.005.1</td>
