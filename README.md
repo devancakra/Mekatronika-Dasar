@@ -169,7 +169,7 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 <table>
 <tr>
 <td>J.61IOT01.018.1</td>
-<td>Melakukan Instalasi Perangkat IoT (Device) sesuai Desain</td>
+<td>Melakukan Instalasi Perangkat IoT (Device) Sesuai Desain</td>
 </tr>
 <tr>
 <td>J.61IOT01.004.1</td>
@@ -189,7 +189,7 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 </tr>
 <tr>
 <td>J.61IOT01.026.1</td>
-<td>Menerapkan perimeter keamanan pada Perangkat IoT</td>
+<td>Menerapkan Perimeter Keamanan pada Perangkat IoT</td>
 </tr>
 <tr>
 <td>J.61IOT01.041.1</td>
