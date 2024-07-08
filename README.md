@@ -184,8 +184,16 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 <td>Menggunakan Protokol Komunikasi IoT pada Aplikasi Berbasis Mobile</td>
 </tr>
 <tr>
+<td>J.61IOT01.008.1</td>
+<td>Membuat Program Visual Antarmuka pada Perangkat Berbasis Web yang Terintegrasi dengan Mikrokontroler</td>
+</tr>
+<tr>
 <td>J.61IOT01.026.1</td>
 <td>Menerapkan perimeter keamanan pada Perangkat IoT</td>
+</tr>
+<tr>
+<td>J.61IOT01.041.1</td>
+<td>Mengaplikasikan Patch Keamanan pada Perangkat IoT</td>
 </tr>
 <tr>
 <td>J.61IOT01.019.1</td>
