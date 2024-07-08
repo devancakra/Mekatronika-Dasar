@@ -135,7 +135,7 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 </tr>
 <tr>
 <td>1</td>
-<td>Pengantar IoT (Pengertian, Sejarah, Sistem Kerja, Arsitektur, Infrastruktur IoT)</td>
+<td>Pengantar IoT (Pengertian, Sejarah, Sistem Kerja, Arsitektur, Infrastruktur, Tren IoT, dll)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -165,6 +165,35 @@ Repository ini terbatas untuk media pembelajaran saja dan tidak untuk di komersi
 
 <br><br>
 
+## Unit Kompetensi
+<table>
+<tr>
+<td>J.61IOT01.018.1</td>
+<td>Melakukan Instalasi Perangkat IoT (Device) sesuai Desain</td>
+</tr>
+<tr>
+<td>J.61IOT01.004.1</td>
+<td>Mengintegrasikan Perangkat Keras dan Perangkat Lunak (Firmware) untuk Device IoT</td>
+</tr>
+<tr>
+<td>J.61IOT01.008.1</td>
+<td>Menggunakan Protokol Komunikasi IoT pada Aplikasi Berbasis Web</td>
+</tr>
+<tr>
+<td>J.61IOT01.026.1</td>
+<td>Menerapkan perimeter keamanan pada Perangkat IoT</td>
+</tr>
+<tr>
+<td>J.61IOT01.005.1</td>
+<td>Menguji Coba Device IoT</td>
+</tr>
+<tr>
+<td>J.61IOT01.010.1</td>
+<td>Menguji Coba Aplikasi IoT</td>
+</tr>
+</table>
+
+<br><br>
 ## Apresiasi
 Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan mengklik tombol ``` ⭐Bintang ``` di bagian atas repositori.
 
