@@ -1,0 +1,81 @@
+﻿----------------------------------------------------------------------------------------------------------------------------------------------------
+Progess Modul Yang Telah Dibagikan : 6/36
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+JUDUL PER BAB :
+
+1.1. Memahami Teknologi Revolusi Industri 4.0 dan Internet of Things.
+
+1.2. Memahami Berbagai Arsitektur Internet of Things.
+
+1.3. Memahami Perkembangan IoT dan Infrastruktur IoT.
+
+2.1. Memahami Berbagai Jenis dan Cara Kerja Sensor Internet of Things.
+
+2.2. Memahami Berbagai Jenis dan Cara Kerja Aktuator Internet of Things.
+
+2.3. Memahami Development Board dan Cara Pemilihannya.
+
+3.1. Teori & Praktikum Elektronika serta Kelistrikan: Seri dan Pararel.
+
+3.2. Praktikum Multiple LED, Dimmer LED, dan RGB LED.
+
+3.3. Praktikum IC Clock dan IC Counter.
+
+4.1. Pengenalan Software Arduino IDE beserta Fitur-Fiturnya.
+
+4.2. Instalasi Software Arduino IDE dan Driver CH340.
+
+4.3. Jenis Komunikasi Data: Wire dan Wireless.
+
+5.1. Pemrograman Bahasa C.
+
+5.2. Teori & Praktikum Dasar Arduino Uno.
+
+5.3. Memahami Cara Kerja Komunikasi WiFi.
+
+6.1. Teori & Praktikum Dasar Wemos D1 R1.
+
+6.2. Praktikum Running LED, Tombol, Buzzer, Relay dan Variasinya.
+
+6.3. Praktikum Serial Monitor.
+
+7.1. Teori dan Praktikum Web Server dengan HTML Web Page.
+
+7.2. Praktikum Membuat Web Server Monitoring dan Kendali.
+
+7.3. Praktikum Display Seven Segmen dan Akses OLED.
+
+8.1. Praktikum Jam Digital Manual tanpa RTC dengan OLED.
+
+8.2. Praktikum Proyek Aplikatif: Tempat Parkir Mobil.
+
+8.3. Pengenalan Blynk sebagai IoT Platform.
+
+9.1. Praktikum Blynk: Mengirim dan Menampilkan Data Dummy.
+
+9.2. Praktikum Blynk: Menampilkan Data Sensor dan Kendali Aktuator.
+
+9.3. Praktikum Blynk: Web Dashboard.
+
+10.1. Praktikum Blynk: Mobile Dashboard.
+
+10.2. Praktikum Blynk: Update Firmware dengan Teknik OTA (Over The Air).
+
+10.3. Teori dan Praktikum Dasar MIT App Inventor.
+
+11.1. Praktikum Membuat Aplikasi berbasis MIT App Inventor dan API Blynk.
+
+11.2. Praktikum Blynk: Controlling dan Monitoring dengan API.
+
+11.3. Pengenalan ThingsBoard sebagai IoT Platform.
+
+12.1. Praktikum ThingsBoard: Mengirim dan Menampilkan Data Dummy.
+
+12.2. Praktikum ThingsBoard: Menampilkan Data Sensor dan Kendali Aktuator.
+
+12.3. Praktikum ThingsBoard: Fitur Alarm, Notifikasi Email, dan Widget Maps.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Harap bersabar, seluruh modul pembelajaran ini rencananya akan dibagikan pada Tahun 2025.
+----------------------------------------------------------------------------------------------------------------------------------------------------
